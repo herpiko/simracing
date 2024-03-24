@@ -1,0 +1,1 @@
+If your computer doesn't recognize it, double-click "Setup" to install it
